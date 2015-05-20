@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saba\'s Task</string>
+    <string name="done_by">Done by Saba</string>
+    <string name="exit_button">Exit</string>
+</resources>
